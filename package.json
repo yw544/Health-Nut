@@ -1,0 +1,13 @@
+{
+  "name": "fruits-app",
+  "private": true,
+  "dependencies": {
+    "chart.js": "^2.7.2",
+    "install": "^0.11.0",
+    "npm": "^6.1.0",
+    "react-chartjs-2": "^2.7.2",
+    "react-easy-chart": "^1.0.0",
+    "semantic-ui": "^2.3.1",
+    "semantic-ui-react": "^0.80.2"
+  }
+}
