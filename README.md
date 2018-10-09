@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi!
 
-Things you may want to cover:
+Welcome to my app, Health Nut! The app designed to tell you, EVERYTHING about the foods you are eating and may want to eat!
 
-* Ruby version
+The current version of the app accepts two parameters, a food item and a measurement of the food (i.e one cup of soup or one bowl of chicken noodle soup both are accepted). 
 
-* System dependencies
+The parameters are fairly fluid, most mass measurements are accepted for solid foods and likewise volumetric measurements work for liquids. 
 
-* Configuration
+In addition, if no measurement is input, a food can be referenced by its serving size (i.e 3 steaks will bring up the nutritional value for 3 serving sizes of steak). 
 
-* Database creation
+Once you are satisfied with the food you have input, a nutritional list will be output that lists a majority of the nutrients inside the combined total of the input items. 
 
-* Database initialization
+The app was designed to help shed light on non common nutritional items in a persons diet, so that the individual may himself see what nutrients he is taking in excess or deficit.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It can also be used as a for fun app to see extreme examples of what drinking "400 redbulls" will add to the nutrient pool of an individual, without actually trying it!
